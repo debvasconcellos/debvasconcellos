@@ -4,12 +4,18 @@ I’m Débora (or Debs), a social scientist turned data analyst. I’m passionat
 
 About Me:
 🎓 Background: I hold a degree in Sociology.
+
 💻 Data Journey: Currently, I’m diving into SQL and Python, leveraging my statistical and social theoretical knowledge from my sociology experience.
+
 📊 Data Visualization: Exploring tools like Power BI and Looker Studio to create insightful visualizations.
+
 🌈 Gender and Sexuality: I’m also studying gender and sexuality theories.
+
 🌐 Collaboration: Excited to collaborate on analytical research, database investigations, and uncovering the myriad possibilities that data offers.
+
 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/debvasconcellos/
+
 ⚡ Fun Fact:
 I’m a proud cat parent to Donna and Sum, named after the legendary singer Donna Summer! 🐱🎶
 
