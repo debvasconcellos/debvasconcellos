@@ -13,8 +13,9 @@ About Me:
 
 🌐 Collaboration: Excited to collaborate on analytical research, database investigations, and uncovering the myriad possibilities that data offers.
 
-Connect with Me:
-LinkedIn: https://www.linkedin.com/in/debvasconcellos/
+📫 Connect with Me:
+📧 Email: debora.vasconcellos15@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/debvasconcellos/
 
 ⚡ Fun Fact:
 I’m a proud cat parent to Donna and Sum, named after the legendary singer Donna Summer! 🐱🎶
