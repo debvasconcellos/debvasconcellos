@@ -1,6 +1,6 @@
 
 Hi there! 👋
-I’m Débora (or Debs), a social scientist turned data analyst. I’m passionate about all things nerdy, from books and series to video games, board games, manga, and anime.
+I’m Débora (or Debs), a social scientist turned data analyst. I'm from Recife, Brazil. I’m passionate about all things nerdy, from books and series to video games, board games, manga, and anime.
 
 About Me:
 🎓 Background: I hold a degree in Sociology.
