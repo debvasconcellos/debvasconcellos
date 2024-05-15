@@ -11,6 +11,8 @@ About Me:
 
 🌈 Gender and Sexuality: I’m also studying gender and sexuality theories.
 
+😄 Pronouns: She/Her
+
 🌐 Collaboration: Excited to collaborate on analytical research, database investigations, and uncovering the myriad possibilities that data offers.
 
 📫 Connect with Me:
