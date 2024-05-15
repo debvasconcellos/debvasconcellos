@@ -3,6 +3,7 @@ Hi there! 👋
 I’m Débora (or Debs), a social scientist turned data analyst. I'm from Recife, Brazil. I’m passionate about all things nerdy, from books and series to video games, board games, manga, and anime.
 
 About Me:
+
 🎓 Background: I hold a degree in Sociology.
 
 💻 Data Journey: Currently, I’m diving into SQL and Python, leveraging my statistical and social theoretical knowledge from my sociology experience.
