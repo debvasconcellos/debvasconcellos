@@ -14,7 +14,9 @@ About Me:
 🌐 Collaboration: Excited to collaborate on analytical research, database investigations, and uncovering the myriad possibilities that data offers.
 
 📫 Connect with Me:
+
 📧 Email: debora.vasconcellos15@gmail.com
+
 🌐 LinkedIn: https://www.linkedin.com/in/debvasconcellos/
 
 ⚡ Fun Fact:
