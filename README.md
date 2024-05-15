@@ -10,7 +10,7 @@ About Me:
 
 📊 Data Visualization: Exploring tools like Power BI and Looker Studio to create insightful visualizations.
 
-🌈 Gender and Sexuality: I’m also studying gender and sexuality theories.
+🌈 Diversity: I’m also studying Gender and Sexuality theories. Defending diversity is an ethical and political commitment of mine.
 
 😄 Pronouns: She/Her
 
